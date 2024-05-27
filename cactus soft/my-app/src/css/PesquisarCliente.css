@@ -1,0 +1,27 @@
+.h2dadosClientes{
+    margin: 20px;
+}
+
+#clientes{
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+.cliente{
+    color: black;
+    margin: auto;
+    margin-top: 20px;
+    width: 400px;
+    text-align: left;
+    height: 500px;
+}
+.clienteInforemacoes {
+    margin-left: 20px;
+}
+.nomeCliente{
+    font-weight: 500;
+    display: inline;
+    margin-right: 10px;
+    margin-left: 10px;
+}

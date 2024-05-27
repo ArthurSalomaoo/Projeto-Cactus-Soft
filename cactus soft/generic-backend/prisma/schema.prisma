@@ -1,0 +1,41 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+//statusCliente	ipConcentrador	nomeConcentrador	conexaoCliente	latitudeCliente	longitudeCliente	conexaoInicial	conexaoFinal	tempoConectado	consumoDownload	consumoUpload	motivoDesconexao	popCliente	nomeCliente	enderecoCliente	bairroCliente	cidadeCliente	contratoStatus	planoContrato	statusInternet	downloadCliente	uploadCliente	valorPlano	timestamp		
+
+model Clientes {
+  id               String    @id @default(uuid())
+  statusCliente    Boolean?
+  ipConcentrador   String?
+  nomeConcentrador String?
+  latitudeCliente  String?
+  longitudeCliente String?
+  conexaoInicial   DateTime?
+  conexaoFinal     DateTime?
+  tempoConectado   Int?
+  consumoDownload  BigInt?
+  consumoUpload    BigInt?
+  motivoDesconexao String?
+  popCliente       String?
+  nomeCliente      String?
+  enderecoCliente  String?
+  bairroCliente    String?
+  cidadeCliente    String?
+  planoContrato    String?
+  statusInternet   Int?
+  valorPlano       Float?
+
+  @@map("clientes")
+}

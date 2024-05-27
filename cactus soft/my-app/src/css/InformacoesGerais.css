@@ -1,0 +1,17 @@
+#informacoesGerais{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: left;
+    margin: auto;
+    margin-top: 20px;
+}
+
+#informacoesGerais > div{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#informacoes{
+
+}

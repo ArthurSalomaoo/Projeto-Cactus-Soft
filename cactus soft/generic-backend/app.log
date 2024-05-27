@@ -1,0 +1,1088 @@
+09/05/2024 19:03:14.314 [[32minfo[39m]: host name read successfully
+09/05/2024 19:03:15.154 [[32minfo[39m]: host name read successfully
+09/05/2024 19:03:15.383 [[32minfo[39m]: host name read successfully
+09/05/2024 19:03:15.573 [[32minfo[39m]: host name read successfully
+09/05/2024 19:03:15.743 [[32minfo[39m]: host name read successfully
+09/05/2024 19:03:15.935 [[32minfo[39m]: host name read successfully
+09/05/2024 19:03:16.124 [[32minfo[39m]: host name read successfully
+09/05/2024 19:03:16.361 [[32minfo[39m]: host name read successfully
+09/05/2024 19:04:00.815 [[32minfo[39m]: host name read successfully
+09/05/2024 19:04:01.528 [[32minfo[39m]: host name read successfully
+09/05/2024 19:05:47.922 [[32minfo[39m]: host name read successfully
+09/05/2024 19:05:48.965 [[32minfo[39m]: host name read successfully
+09/05/2024 19:05:49.805 [[32minfo[39m]: host name read successfully
+09/05/2024 19:05:50.663 [[32minfo[39m]: host name read successfully
+09/05/2024 19:06:29.401 [[32minfo[39m]: host name read successfully
+09/05/2024 19:06:30.419 [[32minfo[39m]: host name read successfully
+09/05/2024 19:06:31.727 [[32minfo[39m]: host name read successfully
+09/05/2024 19:06:34.976 [[32minfo[39m]: host name read successfully
+09/05/2024 19:06:36.285 [[32minfo[39m]: host name read successfully
+09/05/2024 19:06:52.991 [[32minfo[39m]: successfully found clients
+09/05/2024 19:06:52.993 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: Do not know how to serialize a BigInt
+09/05/2024 19:06:53.531 [[32minfo[39m]: successfully found clients
+09/05/2024 19:06:53.531 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: Do not know how to serialize a BigInt
+09/05/2024 19:06:53.818 [[32minfo[39m]: successfully found clients
+09/05/2024 19:06:53.818 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: Do not know how to serialize a BigInt
+09/05/2024 19:06:54.064 [[32minfo[39m]: successfully found clients
+09/05/2024 19:06:54.064 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: Do not know how to serialize a BigInt
+09/05/2024 19:06:54.291 [[32minfo[39m]: successfully found clients
+09/05/2024 19:06:54.291 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: Do not know how to serialize a BigInt
+09/05/2024 19:06:54.545 [[32minfo[39m]: successfully found clients
+09/05/2024 19:06:54.546 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: Do not know how to serialize a BigInt
+09/05/2024 19:06:55.748 [[32minfo[39m]: successfully found clients
+09/05/2024 19:06:55.749 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: Do not know how to serialize a BigInt
+09/05/2024 19:06:56.083 [[32minfo[39m]: successfully found clients
+09/05/2024 19:06:56.083 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: Do not know how to serialize a BigInt
+09/05/2024 19:06:56.318 [[32minfo[39m]: successfully found clients
+09/05/2024 19:06:56.319 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: Do not know how to serialize a BigInt
+09/05/2024 19:06:56.553 [[32minfo[39m]: successfully found clients
+09/05/2024 19:06:56.554 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: Do not know how to serialize a BigInt
+09/05/2024 19:06:56.761 [[32minfo[39m]: successfully found clients
+09/05/2024 19:06:56.761 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: Do not know how to serialize a BigInt
+09/05/2024 19:06:56.970 [[32minfo[39m]: successfully found clients
+09/05/2024 19:06:56.971 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: Do not know how to serialize a BigInt
+09/05/2024 19:06:57.151 [[32minfo[39m]: successfully found clients
+09/05/2024 19:06:57.153 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: Do not know how to serialize a BigInt
+09/05/2024 19:06:57.335 [[32minfo[39m]: successfully found clients
+09/05/2024 19:06:57.335 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: Do not know how to serialize a BigInt
+09/05/2024 19:06:58.700 [[32minfo[39m]: successfully found clients
+09/05/2024 19:06:58.701 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: Do not know how to serialize a BigInt
+09/05/2024 19:07:53.418 [[32minfo[39m]: successfully found clients
+09/05/2024 19:07:53.421 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: Do not know how to serialize a BigInt
+09/05/2024 19:11:07.832 [[32minfo[39m]: successfully found clients
+09/05/2024 19:11:07.834 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: Do not know how to serialize a BigInt
+09/05/2024 19:11:08.619 [[32minfo[39m]: successfully found clients
+09/05/2024 19:11:08.619 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: Do not know how to serialize a BigInt
+09/05/2024 19:11:09.322 [[32minfo[39m]: successfully found clients
+09/05/2024 19:11:09.323 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: Do not know how to serialize a BigInt
+09/05/2024 19:11:09.871 [[32minfo[39m]: successfully found clients
+09/05/2024 19:11:09.871 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: Do not know how to serialize a BigInt
+09/05/2024 19:11:10.699 [[32minfo[39m]: successfully found clients
+09/05/2024 19:11:10.700 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: Do not know how to serialize a BigInt
+09/05/2024 19:11:13.689 [[32minfo[39m]: successfully found clients
+09/05/2024 19:11:14.675 [[32minfo[39m]: successfully found clients
+09/05/2024 19:11:15.899 [[32minfo[39m]: successfully found clients
+09/05/2024 19:11:16.522 [[32minfo[39m]: successfully found clients
+09/05/2024 19:11:16.876 [[32minfo[39m]: successfully found clients
+09/05/2024 19:11:17.167 [[32minfo[39m]: successfully found clients
+09/05/2024 19:11:17.413 [[32minfo[39m]: successfully found clients
+09/05/2024 19:12:22.985 [[32minfo[39m]: successfully found clients
+23/05/2024 00:56:40.064 [[31merror[39m]: path: no path message: Unexpected token ''', ..."Cliente": 'BOOLEAN',"... is not valid JSON
+23/05/2024 00:57:06.466 [[31merror[39m]: path: no path message: Unexpected token ''', ..."conexao": 'TEXT',
+  "... is not valid JSON
+23/05/2024 00:57:15.699 [[31merror[39m]: path: no path message: Unexpected token ''', ..."conexao": 'TEXT',
+  "... is not valid JSON
+23/05/2024 00:58:15.110 [[31merror[39m]: path: no path message: Expected double-quoted property name in JSON at position 185
+23/05/2024 00:58:32.076 [[31merror[39m]: path: no path message: Expected double-quoted property name in JSON at position 56
+23/05/2024 00:58:37.821 [[31merror[39m]: path: no path message: Expected double-quoted property name in JSON at position 32
+23/05/2024 00:58:39.399 [[31merror[39m]: path: no path message: Expected double-quoted property name in JSON at position 32
+23/05/2024 00:59:32.384 [[31merror[39m]: path: no path message: Unexpected token '"', ""id","stat"... is not valid JSON
+23/05/2024 01:02:10.416 [[31merror[39m]: path: no path message: Unexpected token '"', ""id","stat"... is not valid JSON
+23/05/2024 13:15:13.132 [[32minfo[39m]: successfully found clients
+23/05/2024 13:22:57.935 [[32minfo[39m]: successfully found clients
+23/05/2024 13:23:05.524 [[32minfo[39m]: successfully found clients
+23/05/2024 13:26:37.684 [[32minfo[39m]: successfully found clients
+23/05/2024 13:26:52.190 [[32minfo[39m]: successfully found clients
+23/05/2024 13:26:52.200 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: Cannot read properties of undefined (reading 'stringify')
+23/05/2024 13:27:12.890 [[32minfo[39m]: successfully found clients
+23/05/2024 13:27:59.459 [[32minfo[39m]: successfully found clients
+23/05/2024 13:27:59.464 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: json is not defined
+23/05/2024 13:28:23.011 [[32minfo[39m]: successfully found clients
+23/05/2024 13:28:23.014 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: JSON.parseInt is not a function
+23/05/2024 13:28:23.649 [[32minfo[39m]: successfully found clients
+23/05/2024 13:28:23.650 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: JSON.parseInt is not a function
+23/05/2024 13:28:23.860 [[32minfo[39m]: successfully found clients
+23/05/2024 13:28:23.861 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: JSON.parseInt is not a function
+23/05/2024 13:28:24.086 [[32minfo[39m]: successfully found clients
+23/05/2024 13:28:24.089 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: JSON.parseInt is not a function
+23/05/2024 13:28:24.296 [[32minfo[39m]: successfully found clients
+23/05/2024 13:28:24.297 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: JSON.parseInt is not a function
+23/05/2024 13:28:24.552 [[32minfo[39m]: successfully found clients
+23/05/2024 13:28:24.554 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: JSON.parseInt is not a function
+23/05/2024 13:28:24.809 [[32minfo[39m]: successfully found clients
+23/05/2024 13:28:24.810 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: JSON.parseInt is not a function
+23/05/2024 13:28:25.020 [[32minfo[39m]: successfully found clients
+23/05/2024 13:28:25.022 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: JSON.parseInt is not a function
+23/05/2024 13:28:27.327 [[32minfo[39m]: successfully found clients
+23/05/2024 13:28:27.328 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: JSON.parseInt is not a function
+23/05/2024 13:28:40.855 [[32minfo[39m]: successfully found clients
+23/05/2024 13:28:40.858 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: json is not defined
+23/05/2024 13:28:41.526 [[32minfo[39m]: successfully found clients
+23/05/2024 13:28:41.528 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: json is not defined
+23/05/2024 13:28:41.821 [[32minfo[39m]: successfully found clients
+23/05/2024 13:28:41.822 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: json is not defined
+23/05/2024 13:28:42.111 [[32minfo[39m]: successfully found clients
+23/05/2024 13:28:42.112 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: json is not defined
+23/05/2024 13:28:42.355 [[32minfo[39m]: successfully found clients
+23/05/2024 13:28:42.356 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: json is not defined
+23/05/2024 13:28:42.576 [[32minfo[39m]: successfully found clients
+23/05/2024 13:28:42.577 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: json is not defined
+23/05/2024 13:28:42.781 [[32minfo[39m]: successfully found clients
+23/05/2024 13:28:42.782 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: json is not defined
+23/05/2024 13:29:02.459 [[32minfo[39m]: successfully found clients
+23/05/2024 13:29:04.552 [[32minfo[39m]: successfully found clients
+23/05/2024 13:29:17.619 [[32minfo[39m]: successfully found clients
+23/05/2024 13:29:40.768 [[32minfo[39m]: successfully found clients
+23/05/2024 13:29:53.884 [[32minfo[39m]: successfully found clients
+23/05/2024 13:29:56.979 [[32minfo[39m]: successfully found clients
+23/05/2024 13:30:33.267 [[32minfo[39m]: successfully found clients
+23/05/2024 16:29:28.739 [[32minfo[39m]: successfully found clients
+23/05/2024 16:30:54.897 [[32minfo[39m]: successfully found clients
+23/05/2024 16:30:55.150 [[32minfo[39m]: successfully found clients
+23/05/2024 16:31:33.015 [[32minfo[39m]: successfully found clients
+23/05/2024 16:31:33.293 [[32minfo[39m]: successfully found clients
+23/05/2024 16:41:34.098 [[32minfo[39m]: successfully found clients
+23/05/2024 16:41:36.969 [[32minfo[39m]: successfully found clients
+23/05/2024 16:41:42.778 [[32minfo[39m]: successfully found clients
+23/05/2024 16:41:43.235 [[32minfo[39m]: successfully found clients
+23/05/2024 16:41:52.289 [[32minfo[39m]: successfully found clients
+23/05/2024 16:42:20.085 [[32minfo[39m]: successfully found clients
+23/05/2024 16:44:44.262 [[32minfo[39m]: successfully found clients
+23/05/2024 16:44:44.462 [[32minfo[39m]: successfully found clients
+23/05/2024 22:45:50.373 [[32minfo[39m]: successfully found clients
+23/05/2024 22:45:50.515 [[32minfo[39m]: successfully found clients
+23/05/2024 23:00:36.185 [[32minfo[39m]: successfully found clients
+23/05/2024 23:00:36.308 [[32minfo[39m]: successfully found clients
+23/05/2024 23:02:40.999 [[32minfo[39m]: successfully found clients
+23/05/2024 23:02:41.157 [[32minfo[39m]: successfully found clients
+23/05/2024 23:02:49.110 [[32minfo[39m]: successfully found clients
+23/05/2024 23:02:49.282 [[32minfo[39m]: successfully found clients
+23/05/2024 23:02:50.260 [[32minfo[39m]: successfully found clients
+23/05/2024 23:02:50.423 [[32minfo[39m]: successfully found clients
+23/05/2024 23:02:50.904 [[32minfo[39m]: successfully found clients
+23/05/2024 23:02:51.061 [[32minfo[39m]: successfully found clients
+23/05/2024 23:02:51.797 [[32minfo[39m]: successfully found clients
+23/05/2024 23:02:51.939 [[32minfo[39m]: successfully found clients
+23/05/2024 23:02:59.931 [[32minfo[39m]: successfully found clients
+23/05/2024 23:03:00.114 [[32minfo[39m]: successfully found clients
+23/05/2024 23:03:01.013 [[32minfo[39m]: successfully found clients
+23/05/2024 23:03:01.260 [[32minfo[39m]: successfully found clients
+23/05/2024 23:03:24.573 [[32minfo[39m]: successfully found clients
+23/05/2024 23:03:24.718 [[32minfo[39m]: successfully found clients
+23/05/2024 23:03:25.216 [[32minfo[39m]: successfully found clients
+23/05/2024 23:03:25.360 [[32minfo[39m]: successfully found clients
+23/05/2024 23:03:27.256 [[32minfo[39m]: successfully found clients
+23/05/2024 23:03:27.387 [[32minfo[39m]: successfully found clients
+23/05/2024 23:03:29.483 [[32minfo[39m]: successfully found clients
+23/05/2024 23:03:29.486 [[32minfo[39m]: successfully found clients
+23/05/2024 23:04:21.054 [[32minfo[39m]: successfully found clients
+23/05/2024 23:04:21.245 [[32minfo[39m]: successfully found clients
+23/05/2024 23:04:22.094 [[32minfo[39m]: successfully found clients
+23/05/2024 23:04:22.231 [[32minfo[39m]: successfully found clients
+23/05/2024 23:04:28.057 [[32minfo[39m]: successfully found clients
+23/05/2024 23:04:28.227 [[32minfo[39m]: successfully found clients
+23/05/2024 23:06:14.652 [[32minfo[39m]: successfully found clients
+23/05/2024 23:06:14.811 [[32minfo[39m]: successfully found clients
+23/05/2024 23:06:16.030 [[32minfo[39m]: successfully found clients
+23/05/2024 23:06:16.209 [[32minfo[39m]: successfully found clients
+23/05/2024 23:06:20.129 [[32minfo[39m]: successfully found clients
+23/05/2024 23:06:20.250 [[32minfo[39m]: successfully found clients
+23/05/2024 23:06:24.337 [[32minfo[39m]: successfully found clients
+23/05/2024 23:06:24.529 [[32minfo[39m]: successfully found clients
+23/05/2024 23:07:54.354 [[32minfo[39m]: successfully found clients
+23/05/2024 23:08:23.204 [[32minfo[39m]: successfully found clients
+23/05/2024 23:08:23.306 [[32minfo[39m]: successfully found clients
+23/05/2024 23:08:27.154 [[32minfo[39m]: successfully found clients
+23/05/2024 23:10:17.278 [[32minfo[39m]: successfully found clients
+23/05/2024 23:12:14.850 [[32minfo[39m]: successfully found clients
+23/05/2024 23:23:38.632 [[32minfo[39m]: successfully found clients
+23/05/2024 23:25:38.030 [[32minfo[39m]: Successfully found client
+23/05/2024 23:25:38.035 [[31merror[39m]: path: src/controllers/client/findByNameClientesController.js message: Do not know how to serialize a BigInt
+23/05/2024 23:26:31.949 [[32minfo[39m]: Successfully found client
+23/05/2024 23:26:31.951 [[31merror[39m]: path: src/controllers/client/findByNameClientesController.js message: Do not know how to serialize a BigInt
+23/05/2024 23:26:59.088 [[32minfo[39m]: Successfully found client
+23/05/2024 23:26:59.089 [[31merror[39m]: path: src/controllers/client/findByNameClientesController.js message: Do not know how to serialize a BigInt
+23/05/2024 23:28:54.964 [[31merror[39m]: path: src/controllers/client/findByNameClientes.js message: findClienteByName.execute is not a function
+23/05/2024 23:29:00.051 [[31merror[39m]: path: src/models/findManyClientes.js message: valorPlano is not defined
+23/05/2024 23:29:09.225 [[31merror[39m]: path: src/controllers/client/findByNameClientes.js message: findClienteByName.execute is not a function
+23/05/2024 23:30:17.390 [[31merror[39m]: path: src/models/findManyClientes.js message: valorPlano is not defined
+23/05/2024 23:30:19.063 [[31merror[39m]: path: src/controllers/client/findByNameClientes.js message: findClienteByName.execute is not a function
+23/05/2024 23:30:19.603 [[31merror[39m]: path: src/controllers/client/findByNameClientes.js message: findClienteByName.execute is not a function
+23/05/2024 23:30:19.989 [[31merror[39m]: path: src/controllers/client/findByNameClientes.js message: findClienteByName.execute is not a function
+23/05/2024 23:30:27.686 [[32minfo[39m]: successfully found clients
+23/05/2024 23:30:32.191 [[32minfo[39m]: successfully found clients
+23/05/2024 23:30:33.061 [[32minfo[39m]: successfully found clients
+23/05/2024 23:30:40.474 [[31merror[39m]: path: src/models/findManyClientes.js message: valorPlano is not defined
+23/05/2024 23:30:43.041 [[31merror[39m]: path: src/models/findManyClientes.js message: valorPlano is not defined
+23/05/2024 23:31:12.726 [[31merror[39m]: path: src/models/findManyClientes.js message: valorPlano is not defined
+23/05/2024 23:31:13.514 [[31merror[39m]: path: src/models/findManyClientes.js message: valorPlano is not defined
+23/05/2024 23:32:04.110 [[31merror[39m]: path: src/models/findManyClientes.js message: valorPlano is not defined
+23/05/2024 23:32:34.099 [[32minfo[39m]: successfully found clients
+23/05/2024 23:34:28.241 [[32minfo[39m]: successfully found clients
+23/05/2024 23:34:31.342 [[32minfo[39m]: successfully found clients
+23/05/2024 23:34:37.787 [[32minfo[39m]: successfully found clients
+23/05/2024 23:36:57.074 [[32minfo[39m]: successfully found clients
+23/05/2024 23:37:28.936 [[32minfo[39m]: successfully found clients
+23/05/2024 23:39:10.813 [[32minfo[39m]: successfully found clients
+23/05/2024 23:39:12.655 [[32minfo[39m]: successfully found clients
+23/05/2024 23:39:16.963 [[32minfo[39m]: successfully found clients
+23/05/2024 23:39:19.580 [[32minfo[39m]: successfully found clients
+23/05/2024 23:39:22.977 [[32minfo[39m]: successfully found clients
+23/05/2024 23:39:32.495 [[32minfo[39m]: successfully found clients
+23/05/2024 23:48:55.188 [[32minfo[39m]: successfully found clients
+23/05/2024 23:49:00.765 [[32minfo[39m]: successfully found clients
+23/05/2024 23:51:40.943 [[32minfo[39m]: successfully found clients
+23/05/2024 23:52:23.714 [[32minfo[39m]: successfully found clients
+23/05/2024 23:52:32.837 [[32minfo[39m]: successfully found clients
+23/05/2024 23:58:15.696 [[32minfo[39m]: successfully found clients
+23/05/2024 23:58:15.700 [[31merror[39m]: path: src/controllers/client/findByIdClientesController.js message: Do not know how to serialize a BigInt
+23/05/2024 23:58:31.507 [[32minfo[39m]: successfully found clients
+23/05/2024 23:58:33.197 [[32minfo[39m]: successfully found clients
+23/05/2024 23:58:33.780 [[32minfo[39m]: successfully found clients
+23/05/2024 23:59:49.068 [[32minfo[39m]: successfully found clients
+23/05/2024 23:59:54.275 [[32minfo[39m]: successfully found clients
+23/05/2024 23:59:54.742 [[32minfo[39m]: successfully found clients
+24/05/2024 00:00:01.301 [[32minfo[39m]: successfully found clients
+24/05/2024 00:00:01.650 [[32minfo[39m]: successfully found clients
+24/05/2024 00:00:02.777 [[32minfo[39m]: successfully found clients
+24/05/2024 00:00:03.337 [[32minfo[39m]: successfully found clients
+24/05/2024 00:00:03.339 [[32minfo[39m]: successfully found clients
+24/05/2024 00:00:03.548 [[32minfo[39m]: successfully found clients
+24/05/2024 00:01:03.361 [[31merror[39m]: path: src/models/findManyClientes.js message: 
+Invalid `prisma.clientes.findMany()` invocation in
+C:\Users\ARTHUR\OneDrive\Área de Trabalho\cactus soft\generic-backend\src\models\findManyClientes.js:9:46
+
+  6 module.exports = {
+  7   async execute() {
+  8     try {
+→ 9       const clientes = await prisma.clientes.findMany({
+            where: {
+              nomeCliente: {
+                contains: true,
+                          ~~~~
+                mode: "insensitive"
+              }
+            }
+          })
+
+Argument `contains`: Invalid value provided. Expected String or StringFieldRefInput, provided Boolean.
+24/05/2024 00:01:15.883 [[31merror[39m]: path: src/models/findManyClientes.js message: 
+Invalid `prisma.clientes.findMany()` invocation in
+C:\Users\ARTHUR\OneDrive\Área de Trabalho\cactus soft\generic-backend\src\models\findManyClientes.js:9:46
+
+  6 module.exports = {
+  7   async execute() {
+  8     try {
+→ 9       const clientes = await prisma.clientes.findMany({
+            where: {
+              nomeCliente: {
+                contains: true
+                          ~~~~
+              }
+            }
+          })
+
+Argument `contains`: Invalid value provided. Expected String or StringFieldRefInput, provided Boolean.
+24/05/2024 00:01:16.349 [[31merror[39m]: path: src/models/findManyClientes.js message: 
+Invalid `prisma.clientes.findMany()` invocation in
+C:\Users\ARTHUR\OneDrive\Área de Trabalho\cactus soft\generic-backend\src\models\findManyClientes.js:9:46
+
+  6 module.exports = {
+  7   async execute() {
+  8     try {
+→ 9       const clientes = await prisma.clientes.findMany({
+            where: {
+              nomeCliente: {
+                contains: true
+                          ~~~~
+              }
+            }
+          })
+
+Argument `contains`: Invalid value provided. Expected String or StringFieldRefInput, provided Boolean.
+24/05/2024 00:01:16.581 [[31merror[39m]: path: src/models/findManyClientes.js message: 
+Invalid `prisma.clientes.findMany()` invocation in
+C:\Users\ARTHUR\OneDrive\Área de Trabalho\cactus soft\generic-backend\src\models\findManyClientes.js:9:46
+
+  6 module.exports = {
+  7   async execute() {
+  8     try {
+→ 9       const clientes = await prisma.clientes.findMany({
+            where: {
+              nomeCliente: {
+                contains: true
+                          ~~~~
+              }
+            }
+          })
+
+Argument `contains`: Invalid value provided. Expected String or StringFieldRefInput, provided Boolean.
+24/05/2024 00:02:07.032 [[32minfo[39m]: successfully found clients
+24/05/2024 00:04:06.941 [[32minfo[39m]: successfully found clients
+24/05/2024 00:04:18.886 [[32minfo[39m]: successfully found clients
+24/05/2024 00:05:44.963 [[32minfo[39m]: successfully found clients
+24/05/2024 00:05:51.460 [[32minfo[39m]: successfully found clients
+24/05/2024 13:18:37.753 [[32minfo[39m]: successfully found clients
+24/05/2024 13:18:43.898 [[32minfo[39m]: successfully found clients
+24/05/2024 13:18:45.317 [[32minfo[39m]: successfully found clients
+24/05/2024 13:18:50.374 [[32minfo[39m]: successfully found clients
+24/05/2024 13:19:09.117 [[32minfo[39m]: successfully found clients
+24/05/2024 13:19:14.669 [[32minfo[39m]: successfully found clients
+24/05/2024 13:19:18.838 [[32minfo[39m]: successfully found clients
+24/05/2024 13:19:19.366 [[32minfo[39m]: successfully found clients
+24/05/2024 13:19:24.034 [[32minfo[39m]: successfully found clients
+24/05/2024 13:19:33.689 [[32minfo[39m]: successfully found clients
+24/05/2024 13:55:26.774 [[32minfo[39m]: successfully found clients
+24/05/2024 13:55:34.847 [[32minfo[39m]: successfully found clients
+24/05/2024 13:55:56.660 [[32minfo[39m]: successfully found clients
+24/05/2024 13:55:59.729 [[32minfo[39m]: successfully found clients
+24/05/2024 13:56:07.397 [[32minfo[39m]: successfully found clients
+24/05/2024 13:56:59.129 [[32minfo[39m]: successfully found clients
+24/05/2024 13:59:48.132 [[32minfo[39m]: successfully found clients
+24/05/2024 13:59:52.516 [[32minfo[39m]: successfully found clients
+24/05/2024 14:00:04.360 [[31merror[39m]: path: src/controllers/client/findByNameClientes.js message: clientes.map is not a function
+24/05/2024 14:00:05.298 [[31merror[39m]: path: src/controllers/client/findByNameClientes.js message: clientes.map is not a function
+24/05/2024 14:00:05.994 [[31merror[39m]: path: src/controllers/client/findByNameClientes.js message: clientes.map is not a function
+24/05/2024 14:00:06.375 [[31merror[39m]: path: src/controllers/client/findByNameClientes.js message: clientes.map is not a function
+24/05/2024 14:00:07.014 [[31merror[39m]: path: src/controllers/client/findByNameClientes.js message: clientes.map is not a function
+24/05/2024 14:00:07.675 [[31merror[39m]: path: src/controllers/client/findByNameClientes.js message: clientes.map is not a function
+24/05/2024 14:00:17.563 [[31merror[39m]: path: src/controllers/client/findByNameClientes.js message: clientes.map is not a function
+24/05/2024 14:00:31.821 [[31merror[39m]: path: src/controllers/client/findByNameClientes.js message: clientes.map is not a function
+24/05/2024 14:00:33.098 [[31merror[39m]: path: src/controllers/client/findByNameClientes.js message: clientes.map is not a function
+24/05/2024 14:00:34.035 [[31merror[39m]: path: src/controllers/client/findByNameClientes.js message: clientes.map is not a function
+24/05/2024 14:00:40.846 [[31merror[39m]: path: src/controllers/client/findByNameClientes.js message: clientes.map is not a function
+24/05/2024 14:00:41.794 [[31merror[39m]: path: src/controllers/client/findByNameClientes.js message: clientes.map is not a function
+24/05/2024 14:00:50.820 [[32minfo[39m]: successfully found clients
+24/05/2024 14:02:25.138 [[32minfo[39m]: successfully found clients
+24/05/2024 14:02:31.235 [[32minfo[39m]: successfully found clients
+24/05/2024 14:02:43.663 [[32minfo[39m]: successfully found clients
+24/05/2024 14:02:48.242 [[32minfo[39m]: successfully found clients
+24/05/2024 14:02:54.480 [[32minfo[39m]: successfully found clients
+24/05/2024 14:02:57.189 [[32minfo[39m]: successfully found clients
+24/05/2024 14:03:00.183 [[32minfo[39m]: successfully found clients
+24/05/2024 14:03:30.610 [[32minfo[39m]: successfully found clients
+24/05/2024 14:03:36.889 [[32minfo[39m]: successfully found clients
+24/05/2024 14:03:40.553 [[32minfo[39m]: successfully found clients
+24/05/2024 14:09:23.027 [[32minfo[39m]: successfully found clients
+24/05/2024 14:09:23.335 [[32minfo[39m]: successfully found clients
+24/05/2024 14:09:26.217 [[32minfo[39m]: successfully found clients
+24/05/2024 14:09:26.546 [[32minfo[39m]: successfully found clients
+24/05/2024 14:09:27.294 [[32minfo[39m]: successfully found clients
+24/05/2024 14:09:27.592 [[32minfo[39m]: successfully found clients
+24/05/2024 14:09:35.563 [[32minfo[39m]: successfully found clients
+24/05/2024 14:09:43.697 [[32minfo[39m]: successfully found clients
+24/05/2024 14:09:44.229 [[32minfo[39m]: successfully found clients
+24/05/2024 14:10:24.216 [[32minfo[39m]: successfully found clients
+24/05/2024 14:10:24.660 [[32minfo[39m]: successfully found clients
+24/05/2024 14:10:26.646 [[32minfo[39m]: successfully found clients
+24/05/2024 14:10:29.704 [[32minfo[39m]: successfully found clients
+24/05/2024 14:10:30.639 [[32minfo[39m]: successfully found clients
+24/05/2024 14:10:32.342 [[32minfo[39m]: successfully found clients
+24/05/2024 14:10:32.995 [[32minfo[39m]: successfully found clients
+24/05/2024 14:10:49.495 [[32minfo[39m]: successfully found clients
+24/05/2024 14:10:54.476 [[32minfo[39m]: successfully found clients
+24/05/2024 14:10:58.475 [[32minfo[39m]: successfully found clients
+24/05/2024 14:11:02.475 [[32minfo[39m]: successfully found clients
+24/05/2024 14:11:04.194 [[32minfo[39m]: successfully found clients
+24/05/2024 14:11:06.108 [[32minfo[39m]: successfully found clients
+24/05/2024 14:11:06.905 [[32minfo[39m]: successfully found clients
+24/05/2024 14:11:07.137 [[32minfo[39m]: successfully found clients
+24/05/2024 14:11:08.927 [[32minfo[39m]: successfully found clients
+24/05/2024 14:11:09.189 [[32minfo[39m]: successfully found clients
+24/05/2024 14:11:12.426 [[32minfo[39m]: successfully found clients
+24/05/2024 14:11:12.987 [[32minfo[39m]: successfully found clients
+24/05/2024 14:11:36.610 [[32minfo[39m]: successfully found clients
+24/05/2024 14:11:41.336 [[32minfo[39m]: successfully found clients
+24/05/2024 14:11:45.283 [[32minfo[39m]: successfully found clients
+24/05/2024 14:11:46.032 [[32minfo[39m]: successfully found clients
+24/05/2024 14:11:46.607 [[32minfo[39m]: successfully found clients
+24/05/2024 14:14:58.565 [[32minfo[39m]: successfully found clients
+24/05/2024 14:14:59.079 [[32minfo[39m]: successfully found clients
+24/05/2024 14:15:10.120 [[32minfo[39m]: successfully found clients
+24/05/2024 14:15:10.383 [[32minfo[39m]: successfully found clients
+24/05/2024 14:17:54.784 [[32minfo[39m]: successfully found clients
+24/05/2024 14:19:26.928 [[32minfo[39m]: successfully found clients
+24/05/2024 14:19:27.197 [[32minfo[39m]: successfully found clients
+24/05/2024 14:19:39.075 [[32minfo[39m]: successfully found clients
+24/05/2024 14:19:39.349 [[32minfo[39m]: successfully found clients
+24/05/2024 14:19:42.786 [[32minfo[39m]: successfully found clients
+24/05/2024 14:19:43.410 [[32minfo[39m]: successfully found clients
+24/05/2024 14:20:30.070 [[32minfo[39m]: successfully found clients
+24/05/2024 14:20:30.348 [[32minfo[39m]: successfully found clients
+24/05/2024 14:21:03.817 [[32minfo[39m]: successfully found clients
+24/05/2024 14:21:04.100 [[32minfo[39m]: successfully found clients
+24/05/2024 14:21:07.682 [[32minfo[39m]: successfully found clients
+24/05/2024 14:21:41.356 [[32minfo[39m]: successfully found clients
+24/05/2024 14:21:44.049 [[32minfo[39m]: successfully found clients
+24/05/2024 14:21:44.478 [[32minfo[39m]: successfully found clients
+24/05/2024 14:22:41.325 [[32minfo[39m]: successfully found clients
+24/05/2024 14:22:41.930 [[32minfo[39m]: successfully found clients
+24/05/2024 14:22:46.110 [[32minfo[39m]: successfully found clients
+24/05/2024 14:22:46.643 [[32minfo[39m]: successfully found clients
+24/05/2024 14:22:48.219 [[32minfo[39m]: successfully found clients
+24/05/2024 14:29:37.206 [[32minfo[39m]: successfully found clients
+24/05/2024 14:29:37.845 [[32minfo[39m]: successfully found clients
+24/05/2024 14:30:36.265 [[32minfo[39m]: successfully found clients
+24/05/2024 14:30:36.765 [[32minfo[39m]: successfully found clients
+24/05/2024 14:31:44.299 [[32minfo[39m]: successfully found clients
+24/05/2024 14:31:44.586 [[32minfo[39m]: successfully found clients
+24/05/2024 14:32:24.594 [[32minfo[39m]: successfully found clients
+24/05/2024 14:33:01.825 [[32minfo[39m]: successfully found clients
+24/05/2024 14:33:02.292 [[32minfo[39m]: successfully found clients
+24/05/2024 14:33:04.415 [[32minfo[39m]: successfully found clients
+24/05/2024 14:33:16.466 [[32minfo[39m]: successfully found clients
+24/05/2024 14:33:16.788 [[32minfo[39m]: successfully found clients
+24/05/2024 14:34:18.030 [[32minfo[39m]: successfully found clients
+24/05/2024 14:34:20.652 [[32minfo[39m]: successfully found clients
+24/05/2024 14:34:21.049 [[32minfo[39m]: successfully found clients
+24/05/2024 14:34:22.917 [[32minfo[39m]: successfully found clients
+24/05/2024 14:35:11.514 [[32minfo[39m]: successfully found clients
+24/05/2024 14:35:11.942 [[32minfo[39m]: successfully found clients
+24/05/2024 14:35:13.658 [[32minfo[39m]: successfully found clients
+24/05/2024 14:35:28.419 [[32minfo[39m]: successfully found clients
+24/05/2024 14:35:28.831 [[32minfo[39m]: successfully found clients
+24/05/2024 14:35:30.966 [[32minfo[39m]: successfully found clients
+24/05/2024 14:35:36.557 [[32minfo[39m]: successfully found clients
+24/05/2024 14:35:36.788 [[32minfo[39m]: successfully found clients
+24/05/2024 14:35:43.177 [[32minfo[39m]: successfully found clients
+24/05/2024 14:36:07.790 [[32minfo[39m]: successfully found clients
+24/05/2024 14:36:10.136 [[32minfo[39m]: successfully found clients
+24/05/2024 14:36:10.628 [[32minfo[39m]: successfully found clients
+24/05/2024 14:36:39.994 [[32minfo[39m]: successfully found clients
+24/05/2024 14:37:57.441 [[32minfo[39m]: successfully found clients
+24/05/2024 14:41:34.147 [[32minfo[39m]: successfully found clients
+24/05/2024 14:41:34.229 [[32minfo[39m]: successfully found clients
+24/05/2024 14:41:34.706 [[32minfo[39m]: successfully found clients
+24/05/2024 14:41:34.767 [[32minfo[39m]: successfully found clients
+24/05/2024 14:41:37.932 [[32minfo[39m]: successfully found clients
+24/05/2024 14:44:33.033 [[32minfo[39m]: successfully found clients
+24/05/2024 14:44:33.813 [[32minfo[39m]: successfully found clients
+24/05/2024 14:44:43.312 [[32minfo[39m]: successfully found clients
+24/05/2024 14:44:44.296 [[32minfo[39m]: successfully found clients
+24/05/2024 14:45:40.939 [[32minfo[39m]: successfully found clients
+24/05/2024 14:45:41.512 [[32minfo[39m]: successfully found clients
+24/05/2024 14:45:43.252 [[32minfo[39m]: successfully found clients
+24/05/2024 14:45:43.648 [[32minfo[39m]: successfully found clients
+24/05/2024 14:45:45.636 [[32minfo[39m]: successfully found clients
+24/05/2024 14:46:09.639 [[32minfo[39m]: successfully found clients
+24/05/2024 14:46:10.050 [[32minfo[39m]: successfully found clients
+24/05/2024 14:46:14.833 [[32minfo[39m]: successfully found clients
+24/05/2024 14:46:27.773 [[32minfo[39m]: successfully found clients
+24/05/2024 14:46:47.238 [[32minfo[39m]: successfully found clients
+24/05/2024 14:46:47.543 [[32minfo[39m]: successfully found clients
+24/05/2024 14:46:51.923 [[32minfo[39m]: successfully found clients
+24/05/2024 14:46:58.048 [[32minfo[39m]: successfully found clients
+24/05/2024 14:46:58.507 [[32minfo[39m]: successfully found clients
+24/05/2024 14:46:59.751 [[32minfo[39m]: successfully found clients
+24/05/2024 14:47:34.998 [[32minfo[39m]: successfully found clients
+24/05/2024 14:47:37.336 [[32minfo[39m]: successfully found clients
+24/05/2024 14:47:37.702 [[32minfo[39m]: successfully found clients
+24/05/2024 14:47:40.349 [[32minfo[39m]: successfully found clients
+24/05/2024 14:48:09.098 [[32minfo[39m]: successfully found clients
+24/05/2024 14:48:21.285 [[32minfo[39m]: successfully found clients
+24/05/2024 14:50:19.118 [[32minfo[39m]: successfully found clients
+24/05/2024 14:50:19.579 [[32minfo[39m]: successfully found clients
+24/05/2024 14:50:20.836 [[32minfo[39m]: successfully found clients
+24/05/2024 14:50:45.382 [[32minfo[39m]: successfully found clients
+24/05/2024 14:50:45.833 [[32minfo[39m]: successfully found clients
+24/05/2024 14:50:46.219 [[32minfo[39m]: successfully found clients
+24/05/2024 14:50:48.356 [[32minfo[39m]: successfully found clients
+24/05/2024 14:52:59.283 [[32minfo[39m]: successfully found clients
+24/05/2024 14:53:05.164 [[32minfo[39m]: successfully found clients
+24/05/2024 14:55:34.007 [[32minfo[39m]: successfully found clients
+24/05/2024 14:57:25.287 [[32minfo[39m]: successfully found clients
+24/05/2024 14:58:09.018 [[32minfo[39m]: successfully found clients
+24/05/2024 14:58:09.273 [[32minfo[39m]: successfully found clients
+24/05/2024 14:58:16.744 [[32minfo[39m]: successfully found clients
+24/05/2024 14:58:16.987 [[32minfo[39m]: successfully found clients
+24/05/2024 14:58:19.105 [[32minfo[39m]: successfully found clients
+24/05/2024 14:58:26.252 [[32minfo[39m]: successfully found clients
+24/05/2024 14:58:26.513 [[32minfo[39m]: successfully found clients
+24/05/2024 14:58:28.895 [[32minfo[39m]: successfully found clients
+24/05/2024 14:58:38.570 [[32minfo[39m]: successfully found clients
+24/05/2024 14:58:38.829 [[32minfo[39m]: successfully found clients
+24/05/2024 14:58:41.290 [[32minfo[39m]: successfully found clients
+24/05/2024 14:59:14.544 [[32minfo[39m]: successfully found clients
+24/05/2024 14:59:16.387 [[32minfo[39m]: successfully found clients
+24/05/2024 14:59:18.090 [[32minfo[39m]: successfully found clients
+24/05/2024 15:01:39.776 [[32minfo[39m]: successfully found clients
+24/05/2024 15:01:40.066 [[32minfo[39m]: successfully found clients
+24/05/2024 15:01:43.880 [[32minfo[39m]: successfully found clients
+24/05/2024 15:03:14.916 [[32minfo[39m]: successfully found clients
+24/05/2024 15:03:15.201 [[32minfo[39m]: successfully found clients
+24/05/2024 15:03:17.371 [[32minfo[39m]: successfully found clients
+24/05/2024 15:03:33.577 [[32minfo[39m]: successfully found clients
+24/05/2024 15:03:33.832 [[32minfo[39m]: successfully found clients
+24/05/2024 15:03:37.848 [[32minfo[39m]: successfully found clients
+24/05/2024 15:03:56.755 [[32minfo[39m]: successfully found clients
+24/05/2024 15:04:15.142 [[32minfo[39m]: successfully found clients
+24/05/2024 15:04:58.116 [[32minfo[39m]: successfully found clients
+24/05/2024 15:04:58.393 [[32minfo[39m]: successfully found clients
+24/05/2024 15:05:00.424 [[32minfo[39m]: successfully found clients
+24/05/2024 15:05:12.988 [[32minfo[39m]: successfully found clients
+24/05/2024 15:06:37.058 [[32minfo[39m]: successfully found clients
+24/05/2024 15:07:00.707 [[32minfo[39m]: successfully found clients
+24/05/2024 15:29:05.810 [[32minfo[39m]: successfully found clients
+24/05/2024 15:29:06.109 [[32minfo[39m]: successfully found clients
+24/05/2024 15:29:10.340 [[32minfo[39m]: successfully found clients
+24/05/2024 15:31:39.126 [[32minfo[39m]: successfully found clients
+24/05/2024 15:31:39.404 [[32minfo[39m]: successfully found clients
+24/05/2024 15:31:40.848 [[32minfo[39m]: successfully found clients
+24/05/2024 15:31:56.347 [[32minfo[39m]: successfully found clients
+24/05/2024 15:31:56.584 [[32minfo[39m]: successfully found clients
+24/05/2024 15:32:11.801 [[32minfo[39m]: successfully found clients
+24/05/2024 15:32:50.575 [[32minfo[39m]: successfully found clients
+24/05/2024 15:33:18.812 [[32minfo[39m]: successfully found clients
+24/05/2024 15:33:19.072 [[32minfo[39m]: successfully found clients
+24/05/2024 15:33:20.304 [[32minfo[39m]: successfully found clients
+24/05/2024 15:43:21.080 [[32minfo[39m]: successfully found clients
+24/05/2024 15:43:21.605 [[32minfo[39m]: successfully found clients
+24/05/2024 16:21:33.447 [[32minfo[39m]: successfully found clients
+24/05/2024 16:21:33.665 [[32minfo[39m]: successfully found clients
+24/05/2024 16:21:39.630 [[32minfo[39m]: successfully found clients
+24/05/2024 16:22:01.111 [[32minfo[39m]: successfully found clients
+24/05/2024 16:29:33.798 [[32minfo[39m]: successfully found clients
+24/05/2024 16:29:34.091 [[32minfo[39m]: successfully found clients
+24/05/2024 16:29:35.792 [[32minfo[39m]: successfully found clients
+24/05/2024 16:31:41.992 [[32minfo[39m]: successfully found clients
+24/05/2024 16:31:42.272 [[32minfo[39m]: successfully found clients
+24/05/2024 16:31:44.679 [[32minfo[39m]: successfully found clients
+24/05/2024 16:33:29.926 [[32minfo[39m]: successfully found clients
+24/05/2024 16:33:38.014 [[32minfo[39m]: successfully found clients
+24/05/2024 16:33:47.026 [[32minfo[39m]: successfully found clients
+24/05/2024 16:33:49.467 [[32minfo[39m]: successfully found clients
+24/05/2024 16:33:51.936 [[32minfo[39m]: successfully found clients
+24/05/2024 22:18:19.576 [[32minfo[39m]: successfully found clients
+24/05/2024 22:18:19.826 [[32minfo[39m]: successfully found clients
+24/05/2024 22:18:26.706 [[32minfo[39m]: successfully found clients
+24/05/2024 22:18:26.981 [[32minfo[39m]: successfully found clients
+24/05/2024 22:18:29.994 [[32minfo[39m]: successfully found clients
+24/05/2024 22:18:34.325 [[32minfo[39m]: successfully found clients
+24/05/2024 22:18:42.298 [[32minfo[39m]: successfully found clients
+24/05/2024 22:18:44.986 [[32minfo[39m]: successfully found clients
+24/05/2024 22:18:47.498 [[32minfo[39m]: successfully found clients
+24/05/2024 22:40:27.385 [[32minfo[39m]: successfully found clients
+24/05/2024 22:40:27.685 [[32minfo[39m]: successfully found clients
+24/05/2024 22:41:45.385 [[32minfo[39m]: successfully found clients
+24/05/2024 22:41:45.675 [[32minfo[39m]: successfully found clients
+24/05/2024 22:42:45.044 [[32minfo[39m]: successfully found clients
+24/05/2024 22:42:45.297 [[32minfo[39m]: successfully found clients
+24/05/2024 22:42:46.995 [[32minfo[39m]: successfully found clients
+24/05/2024 22:43:03.834 [[32minfo[39m]: successfully found clients
+24/05/2024 22:43:04.121 [[32minfo[39m]: successfully found clients
+24/05/2024 22:43:08.176 [[32minfo[39m]: successfully found clients
+24/05/2024 22:43:28.372 [[32minfo[39m]: successfully found clients
+24/05/2024 22:43:28.659 [[32minfo[39m]: successfully found clients
+24/05/2024 22:43:43.207 [[32minfo[39m]: successfully found clients
+24/05/2024 22:43:43.535 [[32minfo[39m]: successfully found clients
+24/05/2024 22:43:50.314 [[32minfo[39m]: successfully found clients
+24/05/2024 22:43:57.517 [[32minfo[39m]: successfully found clients
+24/05/2024 22:44:03.017 [[32minfo[39m]: successfully found clients
+24/05/2024 22:44:03.308 [[32minfo[39m]: successfully found clients
+24/05/2024 22:45:21.122 [[32minfo[39m]: successfully found clients
+24/05/2024 22:45:21.457 [[32minfo[39m]: successfully found clients
+24/05/2024 22:45:42.518 [[32minfo[39m]: successfully found clients
+24/05/2024 22:45:42.807 [[32minfo[39m]: successfully found clients
+24/05/2024 22:46:34.746 [[32minfo[39m]: successfully found clients
+24/05/2024 22:46:35.134 [[32minfo[39m]: successfully found clients
+24/05/2024 22:48:54.445 [[32minfo[39m]: successfully found clients
+24/05/2024 22:50:25.381 [[32minfo[39m]: successfully found clients
+24/05/2024 22:50:25.686 [[32minfo[39m]: successfully found clients
+24/05/2024 22:50:37.978 [[32minfo[39m]: successfully found clients
+24/05/2024 22:50:38.285 [[32minfo[39m]: successfully found clients
+24/05/2024 22:50:38.507 [[32minfo[39m]: successfully found clients
+24/05/2024 22:50:38.756 [[32minfo[39m]: successfully found clients
+24/05/2024 22:51:04.176 [[32minfo[39m]: successfully found clients
+24/05/2024 22:51:08.224 [[32minfo[39m]: successfully found clients
+24/05/2024 22:51:08.581 [[32minfo[39m]: successfully found clients
+24/05/2024 22:51:08.815 [[32minfo[39m]: successfully found clients
+24/05/2024 22:51:09.086 [[32minfo[39m]: successfully found clients
+24/05/2024 22:51:59.579 [[32minfo[39m]: successfully found clients
+24/05/2024 22:52:05.586 [[32minfo[39m]: successfully found clients
+24/05/2024 22:52:07.558 [[32minfo[39m]: successfully found clients
+24/05/2024 22:52:11.503 [[32minfo[39m]: successfully found clients
+24/05/2024 22:52:11.761 [[32minfo[39m]: successfully found clients
+24/05/2024 22:52:12.517 [[32minfo[39m]: successfully found clients
+24/05/2024 22:52:16.520 [[32minfo[39m]: successfully found clients
+24/05/2024 22:52:25.993 [[32minfo[39m]: successfully found clients
+24/05/2024 22:52:26.317 [[32minfo[39m]: successfully found clients
+24/05/2024 22:52:26.561 [[32minfo[39m]: successfully found clients
+24/05/2024 22:52:26.914 [[32minfo[39m]: successfully found clients
+24/05/2024 22:53:04.623 [[32minfo[39m]: successfully found clients
+24/05/2024 22:53:27.613 [[32minfo[39m]: successfully found clients
+24/05/2024 22:53:27.882 [[32minfo[39m]: successfully found clients
+24/05/2024 22:53:28.229 [[32minfo[39m]: successfully found clients
+24/05/2024 22:53:28.553 [[32minfo[39m]: successfully found clients
+24/05/2024 22:53:30.173 [[32minfo[39m]: successfully found clients
+24/05/2024 22:53:30.451 [[32minfo[39m]: successfully found clients
+24/05/2024 22:53:30.765 [[32minfo[39m]: successfully found clients
+24/05/2024 22:53:31.046 [[32minfo[39m]: successfully found clients
+24/05/2024 22:53:43.459 [[32minfo[39m]: successfully found clients
+24/05/2024 22:53:43.808 [[32minfo[39m]: successfully found clients
+24/05/2024 22:53:44.060 [[32minfo[39m]: successfully found clients
+24/05/2024 22:53:44.311 [[32minfo[39m]: successfully found clients
+24/05/2024 22:54:34.574 [[32minfo[39m]: successfully found clients
+24/05/2024 22:54:34.856 [[32minfo[39m]: successfully found clients
+24/05/2024 22:54:35.129 [[32minfo[39m]: successfully found clients
+24/05/2024 22:54:35.383 [[32minfo[39m]: successfully found clients
+24/05/2024 22:54:45.584 [[32minfo[39m]: successfully found clients
+24/05/2024 22:55:13.953 [[32minfo[39m]: successfully found clients
+24/05/2024 22:55:14.251 [[32minfo[39m]: successfully found clients
+24/05/2024 22:55:14.513 [[32minfo[39m]: successfully found clients
+24/05/2024 22:55:14.744 [[32minfo[39m]: successfully found clients
+24/05/2024 22:55:23.004 [[32minfo[39m]: successfully found clients
+24/05/2024 22:55:34.544 [[32minfo[39m]: successfully found clients
+24/05/2024 22:55:34.812 [[32minfo[39m]: successfully found clients
+24/05/2024 22:55:35.042 [[32minfo[39m]: successfully found clients
+24/05/2024 22:55:35.284 [[32minfo[39m]: successfully found clients
+24/05/2024 22:55:36.557 [[32minfo[39m]: successfully found clients
+24/05/2024 22:55:37.557 [[32minfo[39m]: successfully found clients
+24/05/2024 22:55:55.557 [[32minfo[39m]: successfully found clients
+24/05/2024 22:56:07.562 [[32minfo[39m]: successfully found clients
+24/05/2024 22:56:09.537 [[32minfo[39m]: successfully found clients
+24/05/2024 22:56:18.568 [[32minfo[39m]: successfully found clients
+24/05/2024 22:56:22.572 [[32minfo[39m]: successfully found clients
+24/05/2024 22:56:31.557 [[32minfo[39m]: successfully found clients
+24/05/2024 22:56:39.558 [[32minfo[39m]: successfully found clients
+24/05/2024 22:56:42.540 [[32minfo[39m]: successfully found clients
+24/05/2024 22:57:20.465 [[32minfo[39m]: successfully found clients
+24/05/2024 22:57:20.698 [[32minfo[39m]: successfully found clients
+24/05/2024 22:57:22.453 [[32minfo[39m]: successfully found clients
+24/05/2024 22:57:22.741 [[32minfo[39m]: successfully found clients
+24/05/2024 22:57:24.454 [[32minfo[39m]: successfully found clients
+24/05/2024 22:57:24.688 [[32minfo[39m]: successfully found clients
+24/05/2024 22:57:31.841 [[32minfo[39m]: successfully found clients
+24/05/2024 22:57:32.075 [[32minfo[39m]: successfully found clients
+24/05/2024 22:57:32.301 [[32minfo[39m]: successfully found clients
+24/05/2024 22:57:32.513 [[32minfo[39m]: successfully found clients
+24/05/2024 22:57:40.445 [[32minfo[39m]: successfully found clients
+24/05/2024 22:58:00.857 [[32minfo[39m]: successfully found clients
+24/05/2024 22:58:01.205 [[32minfo[39m]: successfully found clients
+24/05/2024 22:58:01.454 [[32minfo[39m]: successfully found clients
+24/05/2024 22:58:01.691 [[32minfo[39m]: successfully found clients
+24/05/2024 22:58:15.481 [[32minfo[39m]: successfully found clients
+24/05/2024 22:58:15.713 [[32minfo[39m]: successfully found clients
+24/05/2024 22:58:15.936 [[32minfo[39m]: successfully found clients
+24/05/2024 22:58:16.171 [[32minfo[39m]: successfully found clients
+24/05/2024 22:58:18.317 [[32minfo[39m]: successfully found clients
+24/05/2024 22:58:21.744 [[32minfo[39m]: successfully found clients
+24/05/2024 22:58:24.326 [[32minfo[39m]: successfully found clients
+24/05/2024 22:58:28.397 [[32minfo[39m]: successfully found clients
+24/05/2024 22:58:34.631 [[32minfo[39m]: successfully found clients
+24/05/2024 22:58:34.840 [[32minfo[39m]: successfully found clients
+24/05/2024 22:58:36.487 [[32minfo[39m]: successfully found clients
+24/05/2024 22:58:36.789 [[32minfo[39m]: successfully found clients
+24/05/2024 22:58:37.044 [[32minfo[39m]: successfully found clients
+24/05/2024 22:58:37.267 [[32minfo[39m]: successfully found clients
+24/05/2024 22:58:51.430 [[32minfo[39m]: successfully found clients
+24/05/2024 22:59:06.461 [[32minfo[39m]: successfully found clients
+24/05/2024 22:59:06.727 [[32minfo[39m]: successfully found clients
+24/05/2024 23:00:46.469 [[32minfo[39m]: successfully found clients
+24/05/2024 23:00:46.704 [[32minfo[39m]: successfully found clients
+24/05/2024 23:00:46.956 [[32minfo[39m]: successfully found clients
+24/05/2024 23:00:47.189 [[32minfo[39m]: successfully found clients
+24/05/2024 23:00:50.584 [[32minfo[39m]: successfully found clients
+24/05/2024 23:00:58.569 [[32minfo[39m]: successfully found clients
+24/05/2024 23:01:01.555 [[32minfo[39m]: successfully found clients
+24/05/2024 23:01:02.537 [[32minfo[39m]: successfully found clients
+24/05/2024 23:01:09.555 [[32minfo[39m]: successfully found clients
+24/05/2024 23:01:21.593 [[32minfo[39m]: successfully found clients
+24/05/2024 23:01:25.538 [[32minfo[39m]: successfully found clients
+24/05/2024 23:02:11.209 [[32minfo[39m]: successfully found clients
+24/05/2024 23:02:18.742 [[32minfo[39m]: successfully found clients
+24/05/2024 23:02:19.064 [[32minfo[39m]: successfully found clients
+24/05/2024 23:02:19.298 [[32minfo[39m]: successfully found clients
+24/05/2024 23:02:19.597 [[32minfo[39m]: successfully found clients
+24/05/2024 23:02:57.651 [[32minfo[39m]: successfully found clients
+24/05/2024 23:03:21.455 [[32minfo[39m]: successfully found clients
+24/05/2024 23:03:21.725 [[32minfo[39m]: successfully found clients
+24/05/2024 23:03:22.019 [[32minfo[39m]: successfully found clients
+24/05/2024 23:03:22.301 [[32minfo[39m]: successfully found clients
+24/05/2024 23:03:23.451 [[32minfo[39m]: successfully found clients
+24/05/2024 23:03:23.705 [[32minfo[39m]: successfully found clients
+24/05/2024 23:03:23.937 [[32minfo[39m]: successfully found clients
+24/05/2024 23:03:24.156 [[32minfo[39m]: successfully found clients
+24/05/2024 23:03:26.436 [[32minfo[39m]: successfully found clients
+24/05/2024 23:03:26.731 [[32minfo[39m]: successfully found clients
+24/05/2024 23:03:26.952 [[32minfo[39m]: successfully found clients
+24/05/2024 23:03:27.271 [[32minfo[39m]: successfully found clients
+24/05/2024 23:03:46.434 [[32minfo[39m]: successfully found clients
+24/05/2024 23:03:46.674 [[32minfo[39m]: successfully found clients
+24/05/2024 23:03:47.011 [[32minfo[39m]: successfully found clients
+24/05/2024 23:03:47.286 [[32minfo[39m]: successfully found clients
+24/05/2024 23:03:49.782 [[32minfo[39m]: successfully found clients
+24/05/2024 23:03:50.042 [[32minfo[39m]: successfully found clients
+24/05/2024 23:03:50.277 [[32minfo[39m]: successfully found clients
+24/05/2024 23:03:50.517 [[32minfo[39m]: successfully found clients
+24/05/2024 23:03:58.430 [[32minfo[39m]: successfully found clients
+24/05/2024 23:03:58.710 [[32minfo[39m]: successfully found clients
+24/05/2024 23:03:58.942 [[32minfo[39m]: successfully found clients
+24/05/2024 23:03:59.201 [[32minfo[39m]: successfully found clients
+24/05/2024 23:04:09.464 [[32minfo[39m]: successfully found clients
+24/05/2024 23:04:09.759 [[32minfo[39m]: successfully found clients
+24/05/2024 23:04:10.003 [[32minfo[39m]: successfully found clients
+24/05/2024 23:04:10.277 [[32minfo[39m]: successfully found clients
+24/05/2024 23:04:12.547 [[32minfo[39m]: successfully found clients
+24/05/2024 23:04:24.000 [[32minfo[39m]: successfully found clients
+24/05/2024 23:05:23.533 [[32minfo[39m]: successfully found clients
+24/05/2024 23:05:26.564 [[32minfo[39m]: successfully found clients
+24/05/2024 23:05:38.577 [[32minfo[39m]: successfully found clients
+24/05/2024 23:06:04.559 [[32minfo[39m]: successfully found clients
+24/05/2024 23:06:08.521 [[32minfo[39m]: successfully found clients
+24/05/2024 23:06:19.147 [[32minfo[39m]: successfully found clients
+24/05/2024 23:06:32.230 [[32minfo[39m]: successfully found clients
+24/05/2024 23:06:37.222 [[32minfo[39m]: successfully found clients
+24/05/2024 23:07:02.267 [[32minfo[39m]: successfully found clients
+24/05/2024 23:07:11.014 [[32minfo[39m]: successfully found clients
+24/05/2024 23:07:19.725 [[32minfo[39m]: successfully found clients
+24/05/2024 23:08:34.475 [[32minfo[39m]: successfully found clients
+24/05/2024 23:08:34.775 [[32minfo[39m]: successfully found clients
+24/05/2024 23:08:35.497 [[32minfo[39m]: successfully found clients
+24/05/2024 23:08:35.772 [[32minfo[39m]: successfully found clients
+24/05/2024 23:08:40.453 [[32minfo[39m]: successfully found clients
+24/05/2024 23:08:40.678 [[32minfo[39m]: successfully found clients
+24/05/2024 23:08:43.433 [[32minfo[39m]: successfully found clients
+24/05/2024 23:08:43.684 [[32minfo[39m]: successfully found clients
+24/05/2024 23:08:45.460 [[32minfo[39m]: successfully found clients
+24/05/2024 23:08:45.700 [[32minfo[39m]: successfully found clients
+24/05/2024 23:08:49.325 [[32minfo[39m]: successfully found clients
+24/05/2024 23:08:49.674 [[32minfo[39m]: successfully found clients
+24/05/2024 23:09:38.489 [[32minfo[39m]: successfully found clients
+24/05/2024 23:09:38.767 [[32minfo[39m]: successfully found clients
+24/05/2024 23:09:39.001 [[32minfo[39m]: successfully found clients
+24/05/2024 23:09:39.240 [[32minfo[39m]: successfully found clients
+24/05/2024 23:09:40.311 [[32minfo[39m]: successfully found clients
+24/05/2024 23:09:45.917 [[32minfo[39m]: successfully found clients
+24/05/2024 23:09:46.248 [[32minfo[39m]: successfully found clients
+24/05/2024 23:09:46.620 [[32minfo[39m]: successfully found clients
+24/05/2024 23:09:46.898 [[32minfo[39m]: successfully found clients
+24/05/2024 23:11:00.447 [[32minfo[39m]: successfully found clients
+24/05/2024 23:11:00.783 [[32minfo[39m]: successfully found clients
+24/05/2024 23:11:01.095 [[32minfo[39m]: successfully found clients
+24/05/2024 23:11:01.365 [[32minfo[39m]: successfully found clients
+24/05/2024 23:11:09.424 [[32minfo[39m]: successfully found clients
+24/05/2024 23:11:09.685 [[32minfo[39m]: successfully found clients
+24/05/2024 23:11:10.026 [[32minfo[39m]: successfully found clients
+24/05/2024 23:11:10.302 [[32minfo[39m]: successfully found clients
+24/05/2024 23:11:34.859 [[32minfo[39m]: successfully found clients
+24/05/2024 23:11:42.106 [[32minfo[39m]: successfully found clients
+24/05/2024 23:11:42.443 [[32minfo[39m]: successfully found clients
+24/05/2024 23:11:42.669 [[32minfo[39m]: successfully found clients
+24/05/2024 23:11:42.899 [[32minfo[39m]: successfully found clients
+24/05/2024 23:11:57.088 [[32minfo[39m]: successfully found clients
+24/05/2024 23:22:06.797 [[32minfo[39m]: successfully found clients
+24/05/2024 23:22:07.146 [[32minfo[39m]: successfully found clients
+24/05/2024 23:22:07.409 [[32minfo[39m]: successfully found clients
+24/05/2024 23:22:07.706 [[32minfo[39m]: successfully found clients
+24/05/2024 23:22:39.928 [[32minfo[39m]: successfully found clients
+24/05/2024 23:22:40.258 [[32minfo[39m]: successfully found clients
+24/05/2024 23:22:40.515 [[32minfo[39m]: successfully found clients
+24/05/2024 23:22:40.751 [[32minfo[39m]: successfully found clients
+24/05/2024 23:22:42.691 [[32minfo[39m]: successfully found clients
+24/05/2024 23:22:43.057 [[32minfo[39m]: successfully found clients
+24/05/2024 23:22:43.305 [[32minfo[39m]: successfully found clients
+24/05/2024 23:22:43.621 [[32minfo[39m]: successfully found clients
+24/05/2024 23:32:15.626 [[32minfo[39m]: successfully found clients
+24/05/2024 23:35:51.165 [[32minfo[39m]: successfully found clients
+24/05/2024 23:35:51.605 [[32minfo[39m]: successfully found clients
+24/05/2024 23:35:51.876 [[32minfo[39m]: successfully found clients
+24/05/2024 23:35:52.136 [[32minfo[39m]: successfully found clients
+24/05/2024 23:35:58.547 [[32minfo[39m]: successfully found clients
+24/05/2024 23:36:02.579 [[32minfo[39m]: successfully found clients
+25/05/2024 00:58:36.800 [[32minfo[39m]: successfully found clients
+25/05/2024 00:58:37.096 [[32minfo[39m]: successfully found clients
+25/05/2024 00:58:37.361 [[32minfo[39m]: successfully found clients
+25/05/2024 00:58:37.631 [[32minfo[39m]: successfully found clients
+25/05/2024 00:58:43.224 [[32minfo[39m]: successfully found clients
+25/05/2024 00:58:43.528 [[32minfo[39m]: successfully found clients
+25/05/2024 00:58:43.798 [[32minfo[39m]: successfully found clients
+25/05/2024 00:58:44.076 [[32minfo[39m]: successfully found clients
+25/05/2024 00:59:26.601 [[32minfo[39m]: successfully found clients
+25/05/2024 01:01:05.604 [[32minfo[39m]: successfully found clients
+25/05/2024 01:02:34.496 [[32minfo[39m]: successfully found clients
+25/05/2024 01:02:34.996 [[32minfo[39m]: successfully found clients
+25/05/2024 01:02:36.840 [[32minfo[39m]: successfully found clients
+25/05/2024 01:02:39.378 [[32minfo[39m]: successfully found clients
+25/05/2024 01:02:39.656 [[32minfo[39m]: successfully found clients
+25/05/2024 01:02:39.875 [[32minfo[39m]: successfully found clients
+25/05/2024 01:02:40.111 [[32minfo[39m]: successfully found clients
+25/05/2024 01:03:23.512 [[32minfo[39m]: successfully found clients
+25/05/2024 01:03:26.003 [[32minfo[39m]: successfully found clients
+25/05/2024 01:11:45.786 [[32minfo[39m]: successfully found clients
+25/05/2024 01:11:46.078 [[32minfo[39m]: successfully found clients
+25/05/2024 01:19:33.599 [[32minfo[39m]: successfully found clients
+25/05/2024 01:19:52.594 [[32minfo[39m]: successfully found clients
+25/05/2024 01:19:54.589 [[32minfo[39m]: successfully found clients
+25/05/2024 01:20:22.861 [[32minfo[39m]: successfully found clients
+25/05/2024 01:20:25.710 [[32minfo[39m]: successfully found clients
+25/05/2024 01:20:25.993 [[32minfo[39m]: successfully found clients
+25/05/2024 01:20:26.218 [[32minfo[39m]: successfully found clients
+25/05/2024 01:20:26.471 [[32minfo[39m]: successfully found clients
+25/05/2024 01:21:11.593 [[32minfo[39m]: successfully found clients
+25/05/2024 01:21:13.928 [[32minfo[39m]: successfully found clients
+25/05/2024 01:21:16.979 [[32minfo[39m]: successfully found clients
+25/05/2024 01:21:17.438 [[32minfo[39m]: successfully found clients
+25/05/2024 01:21:17.818 [[32minfo[39m]: successfully found clients
+25/05/2024 01:21:18.131 [[32minfo[39m]: successfully found clients
+25/05/2024 01:21:39.603 [[32minfo[39m]: successfully found clients
+25/05/2024 01:21:42.154 [[32minfo[39m]: successfully found clients
+25/05/2024 01:21:42.701 [[32minfo[39m]: successfully found clients
+25/05/2024 01:21:45.485 [[32minfo[39m]: successfully found clients
+25/05/2024 01:21:45.746 [[32minfo[39m]: successfully found clients
+25/05/2024 01:21:45.952 [[32minfo[39m]: successfully found clients
+25/05/2024 01:21:46.225 [[32minfo[39m]: successfully found clients
+25/05/2024 01:21:59.662 [[32minfo[39m]: successfully found clients
+25/05/2024 01:22:08.581 [[32minfo[39m]: successfully found clients
+25/05/2024 01:22:11.599 [[32minfo[39m]: successfully found clients
+25/05/2024 01:22:13.513 [[32minfo[39m]: successfully found clients
+25/05/2024 01:22:13.802 [[32minfo[39m]: successfully found clients
+25/05/2024 01:22:14.024 [[32minfo[39m]: successfully found clients
+25/05/2024 01:22:14.301 [[32minfo[39m]: successfully found clients
+25/05/2024 01:22:21.554 [[32minfo[39m]: successfully found clients
+25/05/2024 01:22:23.379 [[32minfo[39m]: successfully found clients
+25/05/2024 01:22:23.654 [[32minfo[39m]: successfully found clients
+25/05/2024 01:22:23.865 [[32minfo[39m]: successfully found clients
+25/05/2024 01:22:24.168 [[32minfo[39m]: successfully found clients
+25/05/2024 01:22:32.869 [[32minfo[39m]: successfully found clients
+25/05/2024 01:22:35.280 [[32minfo[39m]: successfully found clients
+25/05/2024 01:22:35.588 [[32minfo[39m]: successfully found clients
+25/05/2024 01:22:35.818 [[32minfo[39m]: successfully found clients
+25/05/2024 01:22:36.085 [[32minfo[39m]: successfully found clients
+25/05/2024 01:22:40.588 [[32minfo[39m]: successfully found clients
+25/05/2024 01:22:43.435 [[32minfo[39m]: successfully found clients
+25/05/2024 01:22:43.735 [[32minfo[39m]: successfully found clients
+25/05/2024 01:22:43.951 [[32minfo[39m]: successfully found clients
+25/05/2024 01:22:44.184 [[32minfo[39m]: successfully found clients
+25/05/2024 01:22:49.363 [[32minfo[39m]: successfully found clients
+25/05/2024 01:23:25.459 [[32minfo[39m]: successfully found clients
+25/05/2024 01:23:25.688 [[32minfo[39m]: successfully found clients
+25/05/2024 01:23:25.907 [[32minfo[39m]: successfully found clients
+25/05/2024 01:23:26.142 [[32minfo[39m]: successfully found clients
+25/05/2024 01:23:28.686 [[32minfo[39m]: successfully found clients
+25/05/2024 01:23:35.945 [[32minfo[39m]: successfully found clients
+25/05/2024 01:23:36.176 [[32minfo[39m]: successfully found clients
+25/05/2024 01:23:36.443 [[32minfo[39m]: successfully found clients
+25/05/2024 01:23:36.716 [[32minfo[39m]: successfully found clients
+25/05/2024 01:23:41.511 [[32minfo[39m]: successfully found clients
+25/05/2024 01:23:44.734 [[32minfo[39m]: successfully found clients
+25/05/2024 01:24:50.502 [[32minfo[39m]: successfully found clients
+25/05/2024 01:24:50.846 [[32minfo[39m]: successfully found clients
+25/05/2024 01:24:51.073 [[32minfo[39m]: successfully found clients
+25/05/2024 01:24:51.336 [[32minfo[39m]: successfully found clients
+25/05/2024 17:33:51.630 [[32minfo[39m]: successfully found clients
+25/05/2024 17:33:51.934 [[32minfo[39m]: successfully found clients
+25/05/2024 17:33:52.267 [[32minfo[39m]: successfully found clients
+25/05/2024 17:33:52.895 [[32minfo[39m]: successfully found clients
+25/05/2024 17:58:07.238 [[32minfo[39m]: successfully found clients
+25/05/2024 17:58:10.695 [[32minfo[39m]: successfully found clients
+25/05/2024 17:58:16.521 [[32minfo[39m]: successfully found clients
+25/05/2024 17:58:29.548 [[32minfo[39m]: successfully found clients
+25/05/2024 17:58:30.992 [[32minfo[39m]: successfully found clients
+25/05/2024 17:58:31.684 [[32minfo[39m]: successfully found clients
+25/05/2024 18:41:48.511 [[32minfo[39m]: successfully found clients
+25/05/2024 18:41:49.071 [[32minfo[39m]: successfully found clients
+25/05/2024 18:42:10.410 [[32minfo[39m]: successfully found clients
+25/05/2024 18:42:24.627 [[32minfo[39m]: successfully found clients
+25/05/2024 18:42:24.891 [[32minfo[39m]: successfully found clients
+25/05/2024 18:42:25.120 [[32minfo[39m]: successfully found clients
+25/05/2024 18:42:25.346 [[32minfo[39m]: successfully found clients
+25/05/2024 21:54:42.862 [[32minfo[39m]: successfully found clients
+25/05/2024 21:54:43.113 [[32minfo[39m]: successfully found clients
+25/05/2024 21:54:43.466 [[32minfo[39m]: successfully found clients
+25/05/2024 21:54:43.807 [[32minfo[39m]: successfully found clients
+25/05/2024 21:55:13.096 [[32minfo[39m]: successfully found clients
+25/05/2024 21:55:13.343 [[32minfo[39m]: successfully found clients
+25/05/2024 21:55:13.571 [[32minfo[39m]: successfully found clients
+25/05/2024 21:55:13.802 [[32minfo[39m]: successfully found clients
+25/05/2024 21:55:56.897 [[32minfo[39m]: successfully found clients
+25/05/2024 21:55:57.157 [[32minfo[39m]: successfully found clients
+25/05/2024 21:55:57.392 [[32minfo[39m]: successfully found clients
+25/05/2024 21:55:57.608 [[32minfo[39m]: successfully found clients
+25/05/2024 21:56:54.767 [[32minfo[39m]: successfully found clients
+25/05/2024 21:56:55.026 [[32minfo[39m]: successfully found clients
+25/05/2024 21:56:55.267 [[32minfo[39m]: successfully found clients
+25/05/2024 21:56:55.498 [[32minfo[39m]: successfully found clients
+25/05/2024 21:59:03.979 [[32minfo[39m]: successfully found clients
+25/05/2024 21:59:04.336 [[32minfo[39m]: successfully found clients
+25/05/2024 21:59:04.616 [[32minfo[39m]: successfully found clients
+25/05/2024 21:59:04.847 [[32minfo[39m]: successfully found clients
+25/05/2024 21:59:27.616 [[32minfo[39m]: successfully found clients
+25/05/2024 21:59:40.887 [[32minfo[39m]: successfully found clients
+25/05/2024 21:59:41.135 [[32minfo[39m]: successfully found clients
+25/05/2024 21:59:41.383 [[32minfo[39m]: successfully found clients
+25/05/2024 21:59:41.617 [[32minfo[39m]: successfully found clients
+25/05/2024 22:08:25.813 [[32minfo[39m]: successfully found clients
+25/05/2024 22:08:27.998 [[32minfo[39m]: successfully found clients
+25/05/2024 22:08:29.108 [[32minfo[39m]: successfully found clients
+25/05/2024 22:08:37.201 [[32minfo[39m]: successfully found clients
+25/05/2024 22:08:58.923 [[32minfo[39m]: successfully found clients
+25/05/2024 22:09:01.504 [[32minfo[39m]: successfully found clients
+25/05/2024 22:09:03.727 [[32minfo[39m]: successfully found clients
+25/05/2024 22:09:06.911 [[32minfo[39m]: successfully found clients
+25/05/2024 22:09:11.098 [[32minfo[39m]: successfully found clients
+25/05/2024 22:09:45.270 [[32minfo[39m]: successfully found clients
+25/05/2024 22:10:07.550 [[32minfo[39m]: successfully found clients
+25/05/2024 22:10:19.350 [[32minfo[39m]: successfully found clients
+25/05/2024 22:10:39.380 [[32minfo[39m]: successfully found clients
+25/05/2024 22:34:04.868 [[32minfo[39m]: successfully found clients
+25/05/2024 22:34:58.970 [[32minfo[39m]: successfully found clients
+25/05/2024 22:35:04.383 [[32minfo[39m]: successfully found clients
+25/05/2024 23:21:29.423 [[32minfo[39m]: successfully found clients
+25/05/2024 23:22:18.478 [[32minfo[39m]: successfully found clients
+25/05/2024 23:22:19.461 [[32minfo[39m]: successfully found clients
+25/05/2024 23:22:22.455 [[32minfo[39m]: successfully found clients
+25/05/2024 23:22:33.490 [[32minfo[39m]: successfully found clients
+25/05/2024 23:22:45.467 [[32minfo[39m]: successfully found clients
+25/05/2024 23:23:12.485 [[32minfo[39m]: successfully found clients
+25/05/2024 23:23:28.469 [[32minfo[39m]: successfully found clients
+25/05/2024 23:23:32.457 [[32minfo[39m]: successfully found clients
+25/05/2024 23:24:07.887 [[32minfo[39m]: successfully found clients
+25/05/2024 23:32:08.610 [[32minfo[39m]: successfully found clients
+25/05/2024 23:33:46.333 [[32minfo[39m]: successfully found clients
+25/05/2024 23:33:49.322 [[32minfo[39m]: successfully found clients
+25/05/2024 23:34:08.486 [[32minfo[39m]: successfully found clients
+25/05/2024 23:35:45.558 [[32minfo[39m]: successfully found clients
+25/05/2024 23:37:33.009 [[32minfo[39m]: successfully found clients
+25/05/2024 23:38:16.467 [[32minfo[39m]: successfully found clients
+25/05/2024 23:39:16.204 [[32minfo[39m]: successfully found clients
+25/05/2024 23:40:19.987 [[32minfo[39m]: successfully found clients
+25/05/2024 23:41:14.062 [[32minfo[39m]: successfully found clients
+25/05/2024 23:41:27.700 [[32minfo[39m]: successfully found clients
+25/05/2024 23:41:47.256 [[32minfo[39m]: successfully found clients
+25/05/2024 23:41:56.932 [[32minfo[39m]: successfully found clients
+25/05/2024 23:43:04.009 [[32minfo[39m]: successfully found clients
+25/05/2024 23:44:09.876 [[32minfo[39m]: successfully found clients
+25/05/2024 23:44:24.755 [[32minfo[39m]: successfully found clients
+25/05/2024 23:44:57.737 [[32minfo[39m]: successfully found clients
+25/05/2024 23:45:14.846 [[32minfo[39m]: successfully found clients
+25/05/2024 23:45:17.434 [[32minfo[39m]: successfully found clients
+25/05/2024 23:47:20.603 [[32minfo[39m]: successfully found clients
+25/05/2024 23:49:07.533 [[32minfo[39m]: successfully found clients
+25/05/2024 23:50:50.719 [[32minfo[39m]: successfully found clients
+25/05/2024 23:52:07.545 [[32minfo[39m]: successfully found clients
+25/05/2024 23:52:21.090 [[32minfo[39m]: successfully found clients
+25/05/2024 23:52:50.781 [[32minfo[39m]: successfully found clients
+25/05/2024 23:57:50.057 [[32minfo[39m]: successfully found clients
+26/05/2024 00:04:24.895 [[32minfo[39m]: successfully found clients
+26/05/2024 00:04:26.554 [[32minfo[39m]: successfully found clients
+26/05/2024 00:04:40.830 [[32minfo[39m]: successfully found clients
+26/05/2024 00:05:12.697 [[32minfo[39m]: successfully found clients
+26/05/2024 00:05:21.223 [[32minfo[39m]: successfully found clients
+26/05/2024 00:06:08.646 [[32minfo[39m]: successfully found clients
+26/05/2024 00:06:13.286 [[32minfo[39m]: successfully found clients
+26/05/2024 00:07:48.724 [[32minfo[39m]: successfully found clients
+26/05/2024 00:08:08.834 [[32minfo[39m]: successfully found clients
+26/05/2024 00:08:13.116 [[32minfo[39m]: successfully found clients
+26/05/2024 00:35:58.455 [[32minfo[39m]: successfully found clients
+26/05/2024 00:36:03.443 [[32minfo[39m]: successfully found clients
+26/05/2024 00:36:10.557 [[32minfo[39m]: successfully found clients
+26/05/2024 00:36:22.600 [[32minfo[39m]: successfully found clients
+26/05/2024 00:36:52.305 [[32minfo[39m]: successfully found clients
+26/05/2024 00:36:56.450 [[32minfo[39m]: successfully found clients
+26/05/2024 00:37:27.220 [[32minfo[39m]: successfully found clients
+26/05/2024 00:37:38.652 [[32minfo[39m]: successfully found clients
+26/05/2024 00:37:57.461 [[32minfo[39m]: successfully found clients
+26/05/2024 00:38:10.499 [[32minfo[39m]: successfully found clients
+26/05/2024 00:38:11.583 [[32minfo[39m]: successfully found clients
+26/05/2024 00:38:14.134 [[32minfo[39m]: successfully found clients
+26/05/2024 00:38:20.455 [[32minfo[39m]: successfully found clients
+26/05/2024 00:38:26.466 [[32minfo[39m]: successfully found clients
+26/05/2024 00:38:29.473 [[32minfo[39m]: successfully found clients
+26/05/2024 00:38:33.730 [[32minfo[39m]: successfully found clients
+26/05/2024 00:38:35.307 [[32minfo[39m]: successfully found clients
+26/05/2024 00:38:40.473 [[32minfo[39m]: successfully found clients
+26/05/2024 00:38:42.547 [[32minfo[39m]: successfully found clients
+26/05/2024 00:38:53.502 [[32minfo[39m]: successfully found clients
+26/05/2024 00:41:45.460 [[32minfo[39m]: successfully found clients
+26/05/2024 00:42:36.608 [[32minfo[39m]: successfully found clients
+26/05/2024 00:42:38.711 [[32minfo[39m]: successfully found clients
+26/05/2024 00:43:08.483 [[32minfo[39m]: successfully found clients
+26/05/2024 00:43:10.448 [[32minfo[39m]: successfully found clients
+26/05/2024 00:43:24.472 [[32minfo[39m]: successfully found clients
+26/05/2024 00:43:55.634 [[32minfo[39m]: successfully found clients
+26/05/2024 00:44:26.481 [[32minfo[39m]: successfully found clients
+26/05/2024 00:44:30.467 [[32minfo[39m]: successfully found clients
+26/05/2024 00:44:32.495 [[32minfo[39m]: successfully found clients
+26/05/2024 00:44:36.455 [[32minfo[39m]: successfully found clients
+26/05/2024 00:45:06.180 [[32minfo[39m]: successfully found clients
+26/05/2024 00:46:42.859 [[32minfo[39m]: successfully found clients
+26/05/2024 00:49:01.176 [[32minfo[39m]: successfully found clients
+26/05/2024 00:49:41.772 [[32minfo[39m]: successfully found clients
+26/05/2024 00:50:10.538 [[32minfo[39m]: successfully found clients
+26/05/2024 00:50:23.310 [[32minfo[39m]: successfully found clients
+26/05/2024 00:58:07.434 [[32minfo[39m]: successfully found clients
+26/05/2024 00:58:09.712 [[32minfo[39m]: successfully found clients
+26/05/2024 00:59:33.381 [[32minfo[39m]: successfully found clients
+26/05/2024 00:59:43.544 [[32minfo[39m]: successfully found clients
+26/05/2024 01:01:17.733 [[32minfo[39m]: successfully found clients
+26/05/2024 01:01:23.512 [[32minfo[39m]: successfully found clients
+26/05/2024 01:02:36.455 [[32minfo[39m]: successfully found clients
+26/05/2024 01:02:40.160 [[32minfo[39m]: successfully found clients
+26/05/2024 01:03:01.970 [[32minfo[39m]: successfully found clients
+26/05/2024 01:03:07.174 [[32minfo[39m]: successfully found clients
+26/05/2024 01:03:18.450 [[32minfo[39m]: successfully found clients
+26/05/2024 01:03:19.471 [[32minfo[39m]: successfully found clients
+26/05/2024 01:04:50.325 [[32minfo[39m]: successfully found clients
+26/05/2024 01:04:56.819 [[32minfo[39m]: successfully found clients
+26/05/2024 01:05:15.835 [[32minfo[39m]: successfully found clients
+26/05/2024 01:05:27.996 [[32minfo[39m]: successfully found clients
+26/05/2024 01:07:36.469 [[32minfo[39m]: successfully found clients
+26/05/2024 01:07:38.247 [[32minfo[39m]: successfully found clients
+26/05/2024 01:09:00.231 [[32minfo[39m]: successfully found clients
+26/05/2024 01:09:03.484 [[32minfo[39m]: successfully found clients
+26/05/2024 01:09:08.341 [[32minfo[39m]: successfully found clients
+26/05/2024 01:09:16.593 [[32minfo[39m]: successfully found clients
+26/05/2024 01:09:21.500 [[32minfo[39m]: successfully found clients
+26/05/2024 01:10:29.389 [[32minfo[39m]: successfully found clients
+26/05/2024 01:10:31.937 [[32minfo[39m]: successfully found clients
+26/05/2024 01:10:49.058 [[32minfo[39m]: successfully found clients
+26/05/2024 01:10:59.378 [[32minfo[39m]: successfully found clients
+26/05/2024 01:11:58.623 [[32minfo[39m]: successfully found clients
+26/05/2024 01:13:39.588 [[32minfo[39m]: successfully found clients
+26/05/2024 02:31:55.189 [[32minfo[39m]: successfully found clients
+26/05/2024 02:31:56.389 [[32minfo[39m]: successfully found clients
+26/05/2024 02:32:49.689 [[32minfo[39m]: successfully found clients
+26/05/2024 02:34:10.680 [[32minfo[39m]: successfully found clients
+26/05/2024 02:35:04.888 [[32minfo[39m]: successfully found clients
+26/05/2024 02:36:58.355 [[32minfo[39m]: successfully found clients
+26/05/2024 10:53:05.982 [[32minfo[39m]: successfully found clients
+26/05/2024 10:53:48.647 [[32minfo[39m]: successfully found clients
+26/05/2024 10:54:21.690 [[32minfo[39m]: successfully found clients
+26/05/2024 11:16:09.792 [[32minfo[39m]: successfully found clients
+26/05/2024 11:16:14.363 [[32minfo[39m]: successfully found clients
+26/05/2024 11:16:19.649 [[32minfo[39m]: successfully found clients
+26/05/2024 11:16:28.660 [[32minfo[39m]: successfully found clients
+26/05/2024 11:16:36.335 [[32minfo[39m]: successfully found clients
+26/05/2024 11:16:45.776 [[32minfo[39m]: successfully found clients
+26/05/2024 12:42:10.295 [[32minfo[39m]: successfully found clients
+26/05/2024 13:44:48.346 [[32minfo[39m]: successfully found clients
+26/05/2024 13:44:50.536 [[32minfo[39m]: successfully found clients
+26/05/2024 13:45:05.106 [[32minfo[39m]: successfully found clients
+26/05/2024 13:45:12.434 [[32minfo[39m]: successfully found clients
+26/05/2024 14:01:56.649 [[32minfo[39m]: successfully found clients
+26/05/2024 14:02:15.860 [[32minfo[39m]: successfully found clients
+26/05/2024 14:02:39.214 [[32minfo[39m]: successfully found clients
+26/05/2024 14:02:44.822 [[32minfo[39m]: successfully found clients
+26/05/2024 14:02:50.202 [[32minfo[39m]: successfully found clients
+26/05/2024 14:03:25.766 [[32minfo[39m]: successfully found clients
+26/05/2024 14:03:29.495 [[32minfo[39m]: successfully found clients
+26/05/2024 14:03:39.633 [[32minfo[39m]: successfully found clients
+26/05/2024 14:03:42.203 [[32minfo[39m]: successfully found clients
+26/05/2024 14:12:58.233 [[32minfo[39m]: successfully found clients
+26/05/2024 14:13:06.505 [[32minfo[39m]: successfully found clients
+26/05/2024 14:13:30.926 [[32minfo[39m]: successfully found clients
+26/05/2024 14:15:57.425 [[32minfo[39m]: successfully found clients
+26/05/2024 14:16:55.444 [[32minfo[39m]: successfully found clients
+26/05/2024 14:16:55.447 [[31merror[39m]: path: src/controllers/client/findByNameClientes.js message: Do not know how to serialize a BigInt
+26/05/2024 14:17:50.509 [[32minfo[39m]: successfully found clients
+26/05/2024 14:23:58.311 [[32minfo[39m]: successfully found clients
+26/05/2024 14:24:04.132 [[32minfo[39m]: successfully found clients
+26/05/2024 14:32:42.165 [[32minfo[39m]: successfully found clients
+26/05/2024 14:32:49.112 [[32minfo[39m]: successfully found clients
+26/05/2024 14:33:23.459 [[32minfo[39m]: successfully found clients
+26/05/2024 14:33:48.027 [[32minfo[39m]: successfully found clients
+26/05/2024 14:34:07.842 [[32minfo[39m]: successfully found clients
+26/05/2024 14:34:18.130 [[32minfo[39m]: successfully found clients
+26/05/2024 19:17:13.847 [[32minfo[39m]: successfully found clients
+26/05/2024 19:17:25.137 [[32minfo[39m]: successfully found clients
+26/05/2024 19:27:01.344 [[32minfo[39m]: successfully found clients
+26/05/2024 19:28:53.522 [[32minfo[39m]: successfully found clients
+26/05/2024 20:11:00.565 [[32minfo[39m]: successfully found clients
+26/05/2024 20:11:30.068 [[32minfo[39m]: successfully found clients
+26/05/2024 20:11:40.017 [[32minfo[39m]: successfully found clients
+26/05/2024 20:15:00.846 [[32minfo[39m]: successfully found clients
+26/05/2024 20:15:04.786 [[32minfo[39m]: successfully found clients
+26/05/2024 20:17:56.161 [[32minfo[39m]: successfully found clients
+26/05/2024 20:17:56.700 [[32minfo[39m]: successfully found clients
+26/05/2024 20:23:32.047 [[32minfo[39m]: successfully found clients
+26/05/2024 20:23:45.522 [[32minfo[39m]: successfully found clients
